@@ -1,0 +1,7 @@
+фрукты 25 8 Макен C:\Users\Bikmacs\Pictures\gg\Ivazz.jpg
+овощи 56 21 Госполин C:\Users\Bikmacs\Pictures\gg\Ivazz.jpg
+яблоки 1 1 1 C:\Users\Bikmacs\Pictures\gg\sf.jpg
+2 2 2 2 C:\Users\Bikmacs\Pictures\gg\Ivazz.jpg
+андрей 1000 23 ООО ВЛда таранов C:\Users\Bikmacs\Pictures\gg\sf.jpg
+Влад 1000 27 ООО C:\Users\Bikmacs\Downloads\photo_2024-11-27_15-02-22.jpg
+апельсины 1 1 1
